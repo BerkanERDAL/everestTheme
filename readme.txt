@@ -3,8 +3,8 @@
 Contributors: everestdijital
 Requires at least: 6.0
 Tested up to: 6.7
-Stable tag: 1.0.1
-Version: 1.0.1
+Stable tag: 1.0.2
+Version: 1.0.2
 Requires PHP: 7.4
 License: GNU General Public License v3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
