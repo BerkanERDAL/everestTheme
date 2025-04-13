@@ -46,7 +46,7 @@ Everest Theme includes the following third-party resources:
 
 == Changelog ==
 
-= 1.0.1 - 2025-04-12 =
+= 1.0.2 - 2025-04-12 =
 
 Initial public release
 
